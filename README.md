@@ -1,5 +1,7 @@
+# kaggle link : https://www.kaggle.com/code/anwarhawash/skin-lesions-98-8
+-------------------------------------------------------------------------
 # SkinCancer-Classification
-## --------------------------------------------------------:-Anwar-:--------------------------------------------------------
+
 This code is a comprehensive implementation of a skin cancer classification model using TensorFlow and Keras. The code includes functions for setting up the environment, preparing train-test data, defining the model architecture, training the model, testing and evaluating the model, and visualizing the training curves. Additionally, it includes functions for loading and processing image data, as well as data augmentation.
 
 Here's a breakdown of the code:
